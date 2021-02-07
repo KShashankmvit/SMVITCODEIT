@@ -4,5 +4,5 @@ L_name=input("Enter your surname:")
 L_name1=L_name1[0].upper() 
 age=int(input("Enter your age:")) 
 sex=input("Enter your gender(Female/Male):") 
-print('''your name is:",F_name1,L_name,"your age is"
-,age,"you are",sex ''') 
+print(your name is:",F_name1,L_name,"your age is", 
+age,"you are",sex ) 
