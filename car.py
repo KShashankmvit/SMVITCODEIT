@@ -1,6 +1,6 @@
 function=""
-while function!=stop:
-    function=int(input('>'))
+while function!="stop":
+    function=input('>')
     if function=="start":
         print("car has started moving")
     elif function=="help":
